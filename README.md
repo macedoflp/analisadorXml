@@ -27,8 +27,6 @@ Utiliza hashing para melhorar a busca e otimizar o armazenamento dos dados.
 Como Usar
 Clone o repositório em sua máquina:
 
-bash
-Copiar código
 git clone https://github.com/macedoflp/analisadorXml.git
 Abra o arquivo index.html no navegador para utilizar a interface de busca.
 
