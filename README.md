@@ -26,8 +26,8 @@ Algoritmos de Hash:
 Utiliza hashing para melhorar a busca e otimizar o armazenamento dos dados.
 <h2><strong>Como Usar</strong></h2>
 Clone o repositório em sua máquina:
-```bash
-git clone https://github.com/macedoflp/analisadorXml.git <br> ```
+<br>
+git clone https://github.com/macedoflp/analisadorXml.git <br> 
 Abra o arquivo index.html no navegador para utilizar a interface de busca.
 
 Selecione um arquivo XML que contenha páginas com títulos e textos. O sistema irá extrair e processar as palavras para criar um ranking de ocorrências.
